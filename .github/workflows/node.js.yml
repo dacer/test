@@ -11,6 +11,9 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+        
+      - name: Update dependencies
+        run: yarn upgrade lsar --latest
 
       - name: Install dependencies
         run: yarn install
