@@ -1,0 +1,14 @@
+{
+  "name": "testx",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "x",
+  "license": "MIT",
+  "dependencies": {
+    "lsar": "^1.0.14"
+  },
+  "type": "module"
+}

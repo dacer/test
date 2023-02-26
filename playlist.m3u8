@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1, Source(0)
+http://hw-tct.douyucdn.cn/live/74751rXoSKIIk2o3/playlist.flv,
+#EXTINF:-1, Source(1)
+http://hw-tct.douyucdn.cn/live/74751rXoSKIIk2o3/playlist.m3u8,
+#EXTINF:-1, Source(2)
+http://tc-tct1.douyucdn.cn/live/74751rXoSKIIk2o3/playlist.flv,
+#EXTINF:-1, Source(3)
+http://tc-tct1.douyucdn.cn/live/74751rXoSKIIk2o3/playlist.m3u8,
+#EXTINF:-1, Source(4)
+http://hdltc1.douyucdn.cn/live/74751rXoSKIIk2o3/playlist.flv,
+#EXTINF:-1, Source(5)
+http://hdltc1.douyucdn.cn/live/74751rXoSKIIk2o3/playlist.m3u8,
+#EXTINF:-1, Source(6)
+http://dyp2p-hw.douyucdn.cn/live/74751rXoSKIIk2o3/playlist.m3u8,
+#EXTINF:-1, Source(7)
+http://hls3a-akm.douyucdn.cn/live/74751rXoSKIIk2o3/playlist.m3u8,
+#EXTINF:-1, Source(8)
+http://hls3-akm.douyucdn.cn/live/74751rXoSKIIk2o3/playlist.m3u8,
+#EXTINF:-1, Source(9)
+http://hlsa-akm.douyucdn.cn/live/74751rXoSKIIk2o3/playlist.m3u8,
+#EXTINF:-1, Source(10)
+http://akm-tct.douyucdn.cn/live/74751rXoSKIIk2o3/playlist.m3u8
