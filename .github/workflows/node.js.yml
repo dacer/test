@@ -24,6 +24,6 @@ jobs:
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: test
-          author_email: test@example.com
+          author_name: bot
+          author_email: bot@github.com
           message: "Auto-commit changes on ${{ github.event_name }} #$RUN_NUMBER at $(date +'%Y-%m-%d %H:%M:%S')"
