@@ -2,7 +2,7 @@ name: Daily Yarn Start
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "1,10 4 * * *"
   workflow_dispatch:
 
 jobs:
