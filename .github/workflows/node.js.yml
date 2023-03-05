@@ -25,9 +25,14 @@ jobs:
       - name: Start app
         run: python3 ./index.py
 
+      - name: Set current datetime as env variable
+        env:
+          TZ: 'Asia/Tokyo'
+        run: echo "CURRENT_DATETIME=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
           author_name: bot
           author_email: bot@github.com
-          message: "Auto-commit changes on ${{ github.event_name }} #${{ github.run_number }} at ${{ (date +'%Y-%m-%d %H:%M:%S') }}"
+          message: "Auto-commit changes on ${{ github.event_name }} #${{ github.run_number }} at ${{ env.CURRENT_DATETIME }}"
