@@ -13,11 +13,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         
-      - name: Update dependencies
-        run: yarn upgrade lsar --latest
+      - name: Update real-url
+        run: git submodule update --recursive --remote
 
       - name: Install dependencies
-        run: yarn install
+        run: pip3 install -r ./real-url/requirements.txt
 
       - name: Start app
         run: yarn start

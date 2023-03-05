@@ -1,0 +1,6 @@
+[submodule "real-url"]
+	path = real-url
+	url = https://github.com/iceking2nd/real-url.git
+[submodule "real_url"]
+	path = real_url
+	url = https://github.com/iceking2nd/real-url.git
