@@ -35,4 +35,4 @@ jobs:
         with:
           author_name: bot
           author_email: bot@github.com
-          message: "Auto-commit changes on ${{ github.event_name }} #${{ github.run_number }} at ${{ env.CURRENT_DATETIME }}"
+          message: "[Auto-commit] ${{ github.event_name }} #${{ github.run_number }} at ${{ env.CURRENT_DATETIME }}"
