@@ -13,14 +13,17 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         
+      - name: Init real-url
+        run: git submodule update --init --recursive
+        
       - name: Update real-url
         run: git submodule update --recursive --remote
 
       - name: Install dependencies
-        run: pip3 install -r ./real-url/requirements.txt
+        run: pip3 install -r ./real_url/requirements.txt
 
       - name: Start app
-        run: yarn start
+        run: python3 ./index.py
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
