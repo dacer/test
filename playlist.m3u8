@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1, Source(0)
-http://openhls-tct.douyucdn2.cn/dyliveflv1a/74751rXoSKIIk2o3.m3u8?txSecret=e161f40684a5fb6da074dd774b7d8c11&txTime=6466036f&token=h5-douyu-0-74751-09514e8c67f0a576090eb928c909b63a&did=f9dec3e95a900dbb069aa9fa00031631&origin=tct&vhost=play2&sid=349534904
+http://openhls-tct.douyucdn2.cn/dyliveflv1a/74751rXoSKIIk2o3.m3u8?txSecret=a467e460a03248fa5f0bb22de01b2ab4&txTime=646714f8&token=h5-douyu-0-74751-a3d00b852fbbcac3a3986ff92c80d2e3&did=c2529c129204a6395e0693d900041631&origin=tct&vhost=play2&sid=349651571
+#EXTINF:-1, lv Source(0)
+http://openhls-tct.douyucdn2.cn/dyliveflv1a/5110403rBxSFKREq.m3u8?txSecret=91f7b9b716fdad2acc22374f3f87090c&txTime=646714fb&token=h5-douyu-0-5110403-14a23b7dd65c41b0ba70837b114d20ff&did=a9a0fd0aa87ecfa684afcd3500041631&origin=tct&vhost=play2&sid=349644961
