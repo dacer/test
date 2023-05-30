@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1, Source(0)
-http://openhls-tct.douyucdn2.cn/dyliveflv1a/74751rXoSKIIk2o3.m3u8?txSecret=1b045083596afa5403ba385a582fcae2&txTime=64759d3a&token=h5-douyu-0-74751-44ae9c04d29f5db41d048b4340a2b405&did=3174a2d8f88b7c4a7550574500041631&origin=tct&vhost=play2&sid=350924551
+http://openhls-tct.douyucdn2.cn/dyliveflv1/74751rXoSKIIk2o3.m3u8?txSecret=407e90d280c2baebe6328edfea40d2e0&txTime=6475a285&token=h5-douyu-0-74751-30e3c8ac02c8ade78d0c55f2174babdb&did=5b76b5e42b99988fe4df018200041631&origin=tct&vhost=play1&sid=350927326
 #EXTINF:-1, lv Source(0)
-http://openhls-tct.douyucdn2.cn/dyliveflv1/5110403rsmjUb046.m3u8?txSecret=b89755efd6ad5fbdbbe550a39910ad5f&txTime=64759d3d&token=h5-douyu-0-5110403-2434b290cc5f5e0fb1cbfe33d795a5f9&did=625e1b172bd6c95e66a6796600041631&origin=tct&vhost=play1&sid=350918996
+http://openhls-tct.douyucdn2.cn/dyliveflv1/5110403rsmjUb046.m3u8?txSecret=6c2ffb97086d655568f36618bd26786c&txTime=6475a289&token=h5-douyu-0-5110403-4424ca06d940922c86d9db5abe9f40ce&did=fc1b597bdd9f5093522fabf900041631&origin=tct&vhost=play1&sid=350918996
