@@ -6,7 +6,6 @@ def write_playlist():
     lv_urls = []
     try:
         s = DouYu(74751)
-        s.did = s.get_did()
         urls = json.loads(s.get_real_url()).values()
     except Exception as e:
         print(f"(74751)An error occurred: {e}")
