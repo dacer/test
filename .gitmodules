@@ -1,4 +1,4 @@
 [submodule "real_url"]
 	path = real_url
-	url = https://github.com/iceking2nd/real-url.git
+	url = https://github.com/qianjiachun/real-url.git
 	branch = master
