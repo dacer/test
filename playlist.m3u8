@@ -1,1 +1,9 @@
 #EXTM3U
+#EXTINF:-1, Source(0)
+http://vplay1a.douyucdn.cn/live/74751rXoSKIIk2o3.flv?uuid=
+#EXTINF:-1, Source(1)
+http://tx2play1.douyucdn.cn/live/74751rXoSKIIk2o3.xs?uuid=
+#EXTINF:-1, lv Source(0)
+http://vplay1a.douyucdn.cn/live/5110403rSLyo0NQq.flv?uuid=
+#EXTINF:-1, lv Source(1)
+http://tx2play1.douyucdn.cn/live/5110403rSLyo0NQq.xs?uuid=
