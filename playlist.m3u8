@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Source(0)
-http://vplay1a.douyucdn.cn/live/74751rXoSKIIk2o3.flv?uuid=
-#EXTINF:-1, Source(1)
-http://tx2play1.douyucdn.cn/live/74751rXoSKIIk2o3.xs?uuid=
 #EXTINF:-1, lv Source(0)
-http://vplay1a.douyucdn.cn/live/5110403rbYiv4ppU.flv?uuid=
+http://vplay1a.douyucdn.cn/live/5110403rldZuSojo.flv?uuid=
 #EXTINF:-1, lv Source(1)
-http://tx2play1.douyucdn.cn/live/5110403rbYiv4ppU.xs?uuid=
+http://tx2play1.douyucdn.cn/live/5110403rldZuSojo.xs?uuid=
